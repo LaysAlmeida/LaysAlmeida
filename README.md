@@ -10,14 +10,19 @@
 
 
   <div style="display: inline_block"><br>
- 
+    <h2> ⚙ Main Technologies: </h2>
   <img align="center" alt="Lays-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Lays-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Lays-Ruby" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" /">
 </div>
+                                                                                                                                                                      <h2> 📚 Studying: </h2>
+<div>
+    <img height="30" width="40" alt="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+</div>
+
   
-  ##
- 
+                                                                                                                                                                   
+<h2> 📱 Contact me: </h2> 
 <div> 
   <a href = "mailto:laysfma@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" "mailto:laysfma@gmail.com" target="_blank"></a>
   <a href="https://www.linkedin.com/in/lays-almeida-7078a5213/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
