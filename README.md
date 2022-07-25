@@ -1,6 +1,10 @@
-### Hi there, I'm Lays 👋
-  ##
-  <p> ✨I'm a Computer Science student and I live in Brazil✨</p>
+### Hi there, I'm Lays 😊👋
+##
+
+ <ul> 
+ <li> I'm a Computer Science student and I live in Brazil 🇧🇷 </li>
+ <li>  I'm working as a QA Tester at the moment 💻 </li>
+  </ul>
 
 <div align="center">
   <a href="https://github.com/LaysAlmeida">
