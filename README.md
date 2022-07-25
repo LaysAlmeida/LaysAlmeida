@@ -2,7 +2,7 @@
 ##
 
  <ul> 
- <li> I'm a Computer Science student and I live in Brazil 🇧🇷 </li>
+ <li> I'm a Computer Science student and I live in Brazil 👩‍💻 </li>
  <li>  I'm working as a QA Tester at the moment 💻 </li>
   </ul>
 
